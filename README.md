@@ -28,4 +28,14 @@ while true do
 end
 ```
 This is what it looks like with the example:
-  
+### Low Quality Disabled:
+![RobloxStudioBeta_MKK7seEXHb](https://user-images.githubusercontent.com/83262692/158304299-3d9fd8ff-a82f-492a-bd23-99a167397f29.png)
+
+### Low Quality Enabled:
+![RobloxStudioBeta_eWitGqXcO9](https://user-images.githubusercontent.com/83262692/158304321-1dee9b2a-a5cd-43b2-8340-2aca49abdb3c.png)
+
+## What are the practical uses for this module?
+Here are examples of where you could use this module:
+* Implementing a render distance option
+* Implementing a low-quality button for low-end devices
+* Optimizing your game's performance
